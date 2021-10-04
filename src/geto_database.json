@@ -1,0 +1,100 @@
+{
+  "baseData": {
+    "pledges" : {
+      "-MjUQyGzKcYQwWPa4Qaj" : {
+        "pledgeAmount" : 50,
+        "pledgeDescription" : "Let’s take the Pledge to Drive Non-Polluting Vehicle and ensure clean Air for our loved ones.",
+        "pledgeValidityDesc" : "Every pledge will contribute 90 days of clean year",
+        "rewardValue" : 500
+      },
+      "-MjURgnQjmzzNYgetnU7" : {
+        "pledgeAmount" : 200,
+        "pledgeDescription" : "Let’s take the Pledge to save water while washing vehicles.",
+        "pledgeValidityDesc" : "Every pledge will contribute 90 days of clean year",
+        "rewardValue" : 2000
+      },
+      "-MjUS-5sjh7kdvVvx2ra" : {
+        "pledgeAmount" : 100,
+        "pledgeDescription" : "Let’s take the Pledge to Donate a Plant.",
+        "pledgeValidityDesc" : "Every pledge will contribute 90 days of clean year",
+        "rewardValue" : 1000
+      }
+    },
+    "profile" : {
+      "-MjUUnfbygugddsxntgh" : {
+        "address" : "Behram Baug, Jogeshwari West Mumbai",
+        "city" : "Mumbai",
+        "email" : "john.doe@gmail.com",
+        "name" : "John Doe",
+        "pincode" : "956956",
+        "state" : "Maharashtra"
+      }
+    },
+    "redeemVoucher" : {
+      "-MjUhD5FaRjQ2kxJU-1s" : {
+        "activeVouchers" : "00",
+        "rewardBalance" : "10000"
+      }
+    },
+    "vouchers" : {
+      "-MjoTKSxG5qsMYs7TPXL" : {
+        "bbdiscount" : "50",
+        "bbminBill" : "500",
+        "bkdiscount" : "50",
+        "bkminBill" : "300",
+        "dpdiscount" : "50",
+        "dpminBill" : "500"
+      }
+    }
+  },
+  "users" : {
+    "o5TkFQicimYoQ7VB0tU8bHsRbQT2" : {
+      "pledges" : {
+        "-MjUQyGzKcYQwWPa4Qaj" : {
+          "pledgeAmount" : 50,
+          "pledgeDescription" : "Let’s take the Pledge to Drive Non-Polluting Vehicle and ensure clean Air for our loved ones.",
+          "pledgeValidityDesc" : "Every pledge will contribute 90 days of clean year",
+          "rewardValue" : 500
+        },
+        "-MjURgnQjmzzNYgetnU7" : {
+          "pledgeAmount" : 200,
+          "pledgeDescription" : "Let’s take the Pledge to save water while washing vehicles.",
+          "pledgeValidityDesc" : "Every pledge will contribute 90 days of clean year",
+          "rewardValue" : 2000
+        },
+        "-MjUS-5sjh7kdvVvx2ra" : {
+          "pledgeAmount" : 100,
+          "pledgeDescription" : "Let’s take the Pledge to Donate a Plant.",
+          "pledgeValidityDesc" : "Every pledge will contribute 90 days of clean year",
+          "rewardValue" : 1000
+        }
+      },
+      "profile" : {
+        "-MjUUnfbygugddsxntdh" : {
+          "address" : "Behram Baug, Jogeshwari West Mumbai",
+          "city" : "Mumbai",
+          "email" : "john.doe@gmail.com",
+          "name" : "John Doe",
+          "pincode" : "956956",
+          "state" : "Maharashtra"
+        }
+      },
+      "redeemVoucher" : {
+        "-MjUhD5FaRjQ2kxJU-1s" : {
+          "activeVouchers" : "00",
+          "rewardBalance" : "10000"
+        }
+      },
+      "vouchers" : {
+        "-MjoTKSxG5qsMYs7TPXL" : {
+          "bbdiscount" : "50",
+          "bbminBill" : "500",
+          "bkdiscount" : "50",
+          "bkminBill" : "300",
+          "dpdiscount" : "50",
+          "dpminBill" : "500"
+        }
+      }
+    }
+  }
+}
